@@ -1,4 +1,4 @@
-  # Menu
+# Menu
 -----------------------
 ## Appetizers
 Chicken Liver Pâté
